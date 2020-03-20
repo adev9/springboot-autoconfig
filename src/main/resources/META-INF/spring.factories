@@ -1,0 +1,3 @@
+com.demo.springboot.autoconfigdemo.autoconfig.DemoEnableAutoConfig=\
+com.demo.springboot.autoconfigdemo.classes.ClassA,\
+com.demo.springboot.autoconfigdemo.classes.ClassB
